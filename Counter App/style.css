@@ -1,0 +1,47 @@
+body {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #110215;
+}
+
+h1 {
+    color: #090505;
+    text-decoration: overline;
+}
+
+#counter {
+    color: white;
+    font-size: 40px;
+    margin: 20px 20px;
+    background-color: #000000;
+    
+}
+
+button {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: solid 1px rgb(254, 253, 253);
+    border-radius: 5px;
+}
+
+.card{
+    background-color: #efdc13;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#incrementBtn{
+    background-color: #61c7f3c9;
+}
+
+#decrementBtn{
+    background-color: #f23a3a;
+}
+
+#resetBtn{
+    background-color: #43ed68;
+}
